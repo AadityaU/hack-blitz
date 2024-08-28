@@ -1,0 +1,25 @@
+ /* body{ */
+    /* padding: 0; */
+    /* margin: 0; */
+ /* } */
+ 
+ #newsContainer :hover{ 
+    /* padding: 0; */
+    /* margin: 0; */
+    background-color: #ef9a4fb0;
+color: rgb(255, 255, 255); 
+border-radius: 5%;
+}
+
+h3 h2 p :hover{
+color: azure;
+}
+
+
+.center-heading {
+  font-weight: bold;  text-align: center;
+    margin-top: 50px; 
+    font-size: xx-large;
+    
+}
+
